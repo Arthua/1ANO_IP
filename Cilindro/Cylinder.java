@@ -19,19 +19,24 @@ public class Cylinder {
         this.radius = radius;
         height = yCenterTop - yCenterBottom;
     }    
+    
     /*Pre: radius > 0 && yCenterBottom < yCenterTop */
     public double getRadius() {
        return radius;
     }    
+    
     public double getXCenter() {
         return xCenter;
     }
+    
     public double getYCenterBottom() {
         return yCenterBottom;
     }    
+    
     public double getHeight() {
         return height;
     }    
+    
     public double getVolume() {
         double areaDaBase;
         double volume;
@@ -39,13 +44,16 @@ public class Cylinder {
         volume = areaDaBase * height;
         return volume;
     }
-    void translate(double dx, double dy) {
+    
+    public void translate(double dx, double dy) {
         xCenter = xCenter + dx;
         yCenterBottom = yCenterBottom + dy;
     }    
+    
     public boolean higherCapacity (Cylinder c) {
         return (this.getVolume() > c.getVolume());
     }
+    
     public boolean ptInCircleBottom(double x, double y) {
         double dxbase = Math.pow( x - xCenter,2);
         double dybase = Math.pow( y - yCenterBottom,2);
