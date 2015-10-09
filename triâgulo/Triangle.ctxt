@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=px\ py\ sx\ sy\ tx\ ty
+comment0.target=Triangle(double,\ double,\ double,\ double,\ double,\ double)
+comment1.params=
+comment1.target=Triangle()
+comment2.params=
+comment2.target=double\ getPx()
+comment3.params=
+comment3.target=double\ getPY()
+comment4.params=
+comment4.target=double\ getSx()
+comment5.params=
+comment5.target=double\ getSy()
+comment6.params=
+comment6.target=double\ getTx()
+comment7.params=
+comment7.target=double\ getTy()
+comment8.params=hx\ hy\ kx\ ky
+comment8.target=double\ sidecalc(double,\ double,\ double,\ double)
+numComments=9

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BankAccount()
+comment1.params=valor_inicial
+comment1.target=BankAccount(int)
+comment2.params=value
+comment2.target=void\ deposit(int)
+comment2.text=pre\:value\ >\ 0
+comment3.params=value
+comment3.target=void\ withdraw(int)
+comment3.text=pre\:value\ >\ 0
+comment4.params=
+comment4.target=int\ getSaldo()
+comment5.params=
+comment5.target=boolean\ redZone()
+numComments=6

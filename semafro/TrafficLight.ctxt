@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TrafficLight()
+comment1.params=
+comment1.target=boolean\ isRed()
+comment2.params=
+comment2.target=boolean\ isYellow()
+comment3.params=
+comment3.target=boolean\ isGreen()
+comment4.params=
+comment4.target=boolean\ pass()
+comment5.params=
+comment5.target=boolean\ stop()
+comment6.params=
+comment6.target=void\ changeColor()
+numComments=7

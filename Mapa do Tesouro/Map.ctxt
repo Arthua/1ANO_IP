@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=Tx\ Ty
+comment0.target=Map(int,\ int)
+comment1.params=steps
+comment1.target=void\ walkNorth(int)
+comment2.params=steps
+comment2.target=void\ walkSouth(int)
+comment3.params=steps
+comment3.target=void\ walkEast(int)
+comment4.params=steps
+comment4.target=void\ walkWest(int)
+comment5.params=
+comment5.target=boolean\ dig()
+comment6.params=
+comment6.target=int\ getXPos()
+comment7.params=
+comment7.target=int\ getYPos()
+comment8.params=
+comment8.target=int\ getCurrentDirection()
+numComments=9

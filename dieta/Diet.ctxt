@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Diet()
+comment1.params=c
+comment1.target=void\ eat(int)
+comment2.params=c
+comment2.target=void\ burn(int)
+comment2.text=pre\:\ c>0
+comment3.params=
+comment3.target=int\ eatTimes()
+comment4.params=
+comment4.target=int\ butnTimes()
+comment5.params=
+comment5.target=int\ balance()
+comment6.params=
+comment6.target=boolean\ isBalanceNegative()
+comment7.params=
+comment7.target=float\ avaregeEatenCallories()
+comment8.params=
+comment8.target=float\ avaregeButnCallories()
+numComments=9

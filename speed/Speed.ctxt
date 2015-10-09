@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=speed
+comment0.target=Speed(double)
+comment1.params=
+comment1.target=Speed()
+comment2.params=
+comment2.target=double\ getInMS()
+comment3.params=speed
+comment3.target=void\ setInMS(double)
+comment4.params=
+comment4.target=double\ getInKmH()
+comment5.params=speed
+comment5.target=void\ setInKmH(double)
+comment6.params=
+comment6.target=double\ getInMpH()
+comment7.params=speed
+comment7.target=void\ setInMpH(double)
+numComments=8
